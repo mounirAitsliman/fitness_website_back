@@ -1,0 +1,30 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["hi", "hello", "hey", "good morning", "good afternoon"],
+        "responses": ["Hello! How can I help you?", "Hi there! What can I do for you today?", "Hey! What can I assist you with?"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["bye", "goodbye", "see you later"],
+        "responses": ["Goodbye! Have a great day!", "Take care, bye for now!", "See you later!"]
+      },
+      {
+        "tag": "exercise",
+        "patterns": ["what exercises should I do to lose weight?", "how do I strengthen my core?", "what's a good exercise for my legs?"],
+        "responses": ["There are many exercises you can do to lose weight, including cardio and strength training. For your core, planks, sit-ups, and crunches are great options. For your legs, squats, lunges, and calf raises are effective."]
+      },
+      {
+        "tag": "nutrition",
+        "patterns": ["what should I eat to gain muscle?", "what's a healthy diet for weight loss?", "how many calories should I eat each day?"],
+        "responses": ["To gain muscle, you need to eat a balanced diet with plenty of protein. For weight loss, it's important to focus on whole foods and reduce your intake of processed and sugary foods. The number of calories you need each day depends on your age, gender, weight, and activity level."]
+      },
+      {
+        "tag": "motivation",
+        "patterns": ["how can I stay motivated to exercise?", "what should I do if I'm feeling discouraged?", "how can I set achievable fitness goals?"],
+        "responses": ["Staying motivated can be tough, but setting realistic goals, finding a workout buddy, and tracking your progress can help. If you're feeling discouraged, remember that progress takes time and it's okay to have setbacks. To set achievable goals, make them specific, measurable, and realistic."]
+      }
+    ]
+  }
+  
