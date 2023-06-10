@@ -1,3 +1,4 @@
-torch==2.0.0
-flask==2.1.2
-numpy==1.23.5
+torch
+flask
+numpy
+nltk
