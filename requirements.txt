@@ -3,4 +3,4 @@ flask
 numpy
 nltk
 gunicorn
-
+flask_cors
