@@ -2,3 +2,5 @@ torch
 flask
 numpy
 nltk
+gunicorn
+
