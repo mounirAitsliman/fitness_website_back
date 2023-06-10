@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03f56313-1d87-4b18-9db1-eca661329c23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BotTraining/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotTraining/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotTraining/chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotTraining/chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotTraining/datafitnessv2abir.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotTraining/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotTraining/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BotTraining/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/BotTraining/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QycFeM5olpgIskMO6EVe6q8uYU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/moait/OneDrive/Desktop/PFS_gym_website/fitness_website_back"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f56313-1d87-4b18-9db1-eca661329c23" name="Changes" comment="" />
+      <created>1686329160071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686329160071</updated>
+    </task>
+    <servers />
+  </component>
+</project>
