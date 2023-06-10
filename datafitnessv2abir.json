@@ -2,7 +2,7 @@
     {
       "tag": "greeting",
       "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
-      "responses": ["Hello, welcome to our fitness chatbot!", "Hi there, how can I assist you with your fitness goals today?", "Hey, great to have you here!","Hello, thanks for visiting.",""],
+      "responses": ["Hello, welcome to our fitness chatbot!", "Hi there, how can I assist you with your fitness goals today?", "Hey, great to have you here!","Hello, thanks for visiting."],
       "context": ""
     },
     {
